@@ -1,0 +1,2 @@
+# mywechat
+wechatapi
